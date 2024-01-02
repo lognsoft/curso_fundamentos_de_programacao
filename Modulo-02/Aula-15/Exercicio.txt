@@ -1,0 +1,1 @@
+Faça um programa, utilizando for, que permita o usuário fazer três contas de soma entre dois numeros.

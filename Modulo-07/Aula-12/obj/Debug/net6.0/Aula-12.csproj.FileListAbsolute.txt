@@ -1,0 +1,15 @@
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\bin\Debug\net6.0\Aula-12.exe
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\bin\Debug\net6.0\Aula-12.deps.json
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\bin\Debug\net6.0\Aula-12.runtimeconfig.json
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\bin\Debug\net6.0\Aula-12.dll
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\bin\Debug\net6.0\ref\Aula-12.dll
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\bin\Debug\net6.0\Aula-12.pdb
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\obj\Debug\net6.0\Aula-12.csproj.AssemblyReference.cache
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\obj\Debug\net6.0\Aula-12.GeneratedMSBuildEditorConfig.editorconfig
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\obj\Debug\net6.0\Aula-12.AssemblyInfoInputs.cache
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\obj\Debug\net6.0\Aula-12.AssemblyInfo.cs
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\obj\Debug\net6.0\Aula-12.csproj.CoreCompileInputs.cache
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\obj\Debug\net6.0\Aula-12.dll
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\obj\Debug\net6.0\ref\Aula-12.dll
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\obj\Debug\net6.0\Aula-12.pdb
+F:\CursoProgramacao\Codigos\projetos\Modulo-07\Aula-12\obj\Debug\net6.0\Aula-12.genruntimeconfig.cache
