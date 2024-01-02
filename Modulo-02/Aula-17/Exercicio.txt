@@ -1,0 +1,1 @@
+Faça um programa, utilizando for, que peça ao usuário um número que ele deseja efetuar a tabuada, o segundo numero que o usuario digitar, sera a quantidade de vezes que a tabuada sera calculada.

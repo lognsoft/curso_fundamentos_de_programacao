@@ -1,0 +1,15 @@
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\bin\Debug\net7.0\meuprimeiroprojeto.exe
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\bin\Debug\net7.0\meuprimeiroprojeto.deps.json
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\bin\Debug\net7.0\meuprimeiroprojeto.runtimeconfig.json
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\bin\Debug\net7.0\meuprimeiroprojeto.dll
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\bin\Debug\net7.0\meuprimeiroprojeto.pdb
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net7.0\meuprimeiroprojeto.csproj.AssemblyReference.cache
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net7.0\meuprimeiroprojeto.GeneratedMSBuildEditorConfig.editorconfig
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net7.0\meuprimeiroprojeto.AssemblyInfoInputs.cache
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net7.0\meuprimeiroprojeto.AssemblyInfo.cs
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net7.0\meuprimeiroprojeto.csproj.CoreCompileInputs.cache
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net7.0\meuprimeiroprojeto.dll
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net7.0\refint\meuprimeiroprojeto.dll
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net7.0\meuprimeiroprojeto.pdb
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net7.0\meuprimeiroprojeto.genruntimeconfig.cache
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\meuprimeiroprojeto\meuprimeiroprojeto\obj\Debug\net7.0\ref\meuprimeiroprojeto.dll
