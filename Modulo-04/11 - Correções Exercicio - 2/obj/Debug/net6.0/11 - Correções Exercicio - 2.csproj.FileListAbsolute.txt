@@ -1,0 +1,15 @@
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\bin\Debug\net6.0\11 - Correções Exercicio - 2.exe
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\bin\Debug\net6.0\11 - Correções Exercicio - 2.deps.json
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\bin\Debug\net6.0\11 - Correções Exercicio - 2.runtimeconfig.json
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\bin\Debug\net6.0\11 - Correções Exercicio - 2.dll
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\bin\Debug\net6.0\ref\11 - Correções Exercicio - 2.dll
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\bin\Debug\net6.0\11 - Correções Exercicio - 2.pdb
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\obj\Debug\net6.0\11 - Correções Exercicio - 2.csproj.AssemblyReference.cache
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\obj\Debug\net6.0\11 - Correções Exercicio - 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\obj\Debug\net6.0\11 - Correções Exercicio - 2.AssemblyInfoInputs.cache
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\obj\Debug\net6.0\11 - Correções Exercicio - 2.AssemblyInfo.cs
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\obj\Debug\net6.0\11 - Correções Exercicio - 2.csproj.CoreCompileInputs.cache
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\obj\Debug\net6.0\11 - Correções Exercicio - 2.dll
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\obj\Debug\net6.0\ref\11 - Correções Exercicio - 2.dll
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\obj\Debug\net6.0\11 - Correções Exercicio - 2.pdb
+F:\CursoProgramacao\Codigos\projetos\Modulo-04\11 - Correções Exercicio - 2\obj\Debug\net6.0\11 - Correções Exercicio - 2.genruntimeconfig.cache

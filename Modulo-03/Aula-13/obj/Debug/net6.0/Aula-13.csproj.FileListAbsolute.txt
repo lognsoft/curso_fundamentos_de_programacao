@@ -1,0 +1,15 @@
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\bin\Debug\net6.0\Aula-13.exe
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\bin\Debug\net6.0\Aula-13.deps.json
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\bin\Debug\net6.0\Aula-13.runtimeconfig.json
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\bin\Debug\net6.0\Aula-13.dll
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\bin\Debug\net6.0\ref\Aula-13.dll
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\bin\Debug\net6.0\Aula-13.pdb
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\obj\Debug\net6.0\Aula-13.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\obj\Debug\net6.0\Aula-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\obj\Debug\net6.0\Aula-13.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\obj\Debug\net6.0\Aula-13.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\obj\Debug\net6.0\Aula-13.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\obj\Debug\net6.0\Aula-13.dll
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\obj\Debug\net6.0\ref\Aula-13.dll
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\obj\Debug\net6.0\Aula-13.pdb
+C:\Users\Bruno\Desktop\CursoProgramacao\Codigos\projetos\Modulo-03\Aula-13\obj\Debug\net6.0\Aula-13.genruntimeconfig.cache
