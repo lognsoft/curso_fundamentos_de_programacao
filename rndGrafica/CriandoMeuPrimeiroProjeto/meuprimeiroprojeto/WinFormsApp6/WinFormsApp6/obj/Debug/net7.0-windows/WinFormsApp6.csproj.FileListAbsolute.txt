@@ -1,0 +1,17 @@
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\obj\Debug\net7.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\obj\Debug\net7.0-windows\WinFormsApp6.Form1.resources
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\obj\Debug\net7.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\obj\Debug\net7.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\obj\Debug\net7.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\obj\Debug\net7.0-windows\WinFormsApp6.AssemblyInfo.cs
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\obj\Debug\net7.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\bin\Debug\net7.0-windows\WinFormsApp6.exe
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\bin\Debug\net7.0-windows\WinFormsApp6.deps.json
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\bin\Debug\net7.0-windows\WinFormsApp6.runtimeconfig.json
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\bin\Debug\net7.0-windows\WinFormsApp6.dll
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\bin\Debug\net7.0-windows\WinFormsApp6.pdb
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\obj\Debug\net7.0-windows\WinFormsApp6.dll
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\obj\Debug\net7.0-windows\refint\WinFormsApp6.dll
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\obj\Debug\net7.0-windows\WinFormsApp6.pdb
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\obj\Debug\net7.0-windows\WinFormsApp6.genruntimeconfig.cache
+G:\CursoProgramacao\Codigos\projetos\rndGrafica\CriandoMeuPrimeiroProjeto\meuprimeiroprojeto\WinFormsApp6\WinFormsApp6\obj\Debug\net7.0-windows\ref\WinFormsApp6.dll
